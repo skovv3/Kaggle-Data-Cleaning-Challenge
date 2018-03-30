@@ -9,4 +9,3 @@ We’ll work through five hands-on exercises with real, messy data and answer so
 - Day 4: Character encoding errors (no more messed up text fields!)  
 - Day 5: Fixing inconsistent data entry &amp spelling errors 
 
-Ready to get started? Just enter your e-mail below to register.   How do I know what to do each day? Every day you’ll get an email with instructions for that day’s challenge sent to the address you provide below. What if I need help? You're welcome to ask for help on the forums or in the comments section of the notebook for each day. When is the challenge? This 5-Day Challenge will run from March 26 through March 30 2018. What do I need to know to get started? This challenge will be taught in Python and assumes you have used some Python before. If you haven't, try working through the Kaggle Learn Machine Learning curriculum before you get started to get up to speed.
